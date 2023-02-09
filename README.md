@@ -1,1 +1,1 @@
-# tetris_ESP32_uMyo
+# Simple Tetris implementation on LED matrix with control via uMyo
